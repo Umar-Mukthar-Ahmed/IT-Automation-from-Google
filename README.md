@@ -2,7 +2,7 @@
 
 <br>
 
-![img](final-certificate.jpg)
+![img](final-certificate.png)
 
 * This repository written for reference and self-documentation purpose
 * Feel free to contribute!
